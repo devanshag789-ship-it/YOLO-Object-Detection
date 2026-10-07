@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor settings
+.vscode/
+.idea/
+
+# Weights caching (YOLOv8 Weights)
+*.pt
+*.pth
+
+# Operating system files
+.DS_Store
+Thumbs.db
